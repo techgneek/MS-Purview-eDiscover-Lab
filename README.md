@@ -4,6 +4,8 @@
 
 Your organization’s HR department has received a whistleblower report suggesting confidential payroll information may have been mishandled via internal emails and files. As part of the security and compliance team, you’ve been tasked with using **Microsoft Purview eDiscovery (Standard)** to identify any data related to the keyword **"payroll"** in **Exchange mailboxes**, **SharePoint sites**, and **public folders**.
 
+![cd19c5d3-4973-4d3c-83a0-609f91a7b70a](https://github.com/user-attachments/assets/4e34f07d-b1fa-47eb-b45f-764e1dbbcd76)
+
 ---
 
 ## ✅ Lab Objective
